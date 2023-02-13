@@ -24,3 +24,17 @@ background-color: cyan;
 .EMILY{
     color:darkmagenta;
 }
+.tabledata{
+    border: 0vh;
+    border: 4px solid black;
+    color :darkred;
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+tr ,td {
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+}
