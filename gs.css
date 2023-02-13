@@ -1,0 +1,23 @@
+.speech{
+ font-size: 20px;
+ font-family: 'Times New Roman', Times, serif;
+ color :black;
+}
+.direction{
+font-size: 15px;
+font-family :'Courier New', Courier, monospace;
+color : black;
+background-color: cyan;
+}
+.direction :hover{
+    background-color: darkgray;
+}
+.OLLIVANT{
+ color: blue;
+}
+.MARY{
+    color :brown
+}
+.EMILY{
+    color:darkmagenta;
+}
