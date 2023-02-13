@@ -4,19 +4,22 @@
  color :black;
 }
 .direction{
-font-size: 15px;
+font-size: 16px;
 font-family :'Courier New', Courier, monospace;
 color : black;
 background-color: cyan;
 }
-.direction :hover{
+.direction:hover{
+    font-size: 16px;
+    font-family :'Courier New', Courier, monospace;
+    color : black;
     background-color: darkgray;
 }
 .OLLIVANT{
  color: blue;
 }
 .MARY{
-    color :brown
+    color :deeppink;
 }
 .EMILY{
     color:darkmagenta;
